@@ -1,0 +1,9 @@
+gradio
+chromadb
+sentence-transformers
+transformers
+torch
+scikit-learn
+pypdf
+pandas
+numpy
